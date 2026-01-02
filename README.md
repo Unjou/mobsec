@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ MobSecKit - Security Toolkit
+# 🛡️ MobSecKit 
 
 <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Security-Recon-red?style=for-the-badge" />
