@@ -77,6 +77,6 @@ The script is optimized for low-overhead environments:
 
 <div align="center">
 
-**Developed by [norct](https://github.com/Unjou) 👾** *Fullstack Developer | Game Localization Translator | Security Enthusiast*
+**Developed by [norct](https://github.com/Unjou) 👾** 
 
 </div>
