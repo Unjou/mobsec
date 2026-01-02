@@ -14,7 +14,7 @@
 
 ---
 
-### 🌌 Detailed Technical Overview
+### 🌌 Overview 
 
 **MobSecKit** is a specialized script designed to automate the initial phase of network reconnaissance. It focuses on identifying live hosts and auditing common service entry points using native system protocols.
 
